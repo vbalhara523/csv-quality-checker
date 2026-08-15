@@ -1,0 +1,25 @@
+student_id,name,email,department,semester,cgpa,admission_date,fees_paid
+1001,Aarav Sharma,aarav.sharma@brcm.edu,CSE,3,8.4,2024-08-05,62000
+1002,Meera Yadav,meera.yadav@brcm.edu,CSE,3,9.1,2024-08-05,62000
+1003,Rohan Dahiya,rohan.dahiya@brcm,ECE,5,7.2,2023-08-07,58000
+1004,Isha Verma,isha.verma@brcm.edu,CSE,1,,2025-08-04,62000
+1005,Karan Malik,karan.malik@brcm.edu,ME,5,6.8,2023-08-07,55000
+1006,Neha Joshi,neha.joshi@brcm.edu,CSE,7,8.9,2022-08-08,62000
+1007,Dev Rathi,dev.rathi@brcm.edu,ECE,3,7.7,2024-08-05,58000
+1002,Meera Yadav,meera.yadav@brcm.edu,CSE,3,9.1,2024-08-05,62000
+1008,Pooja Nain,pooja.nain@brcm.edu,CSE,9,8.1,2022-08-08,62000
+1009,Sana Khan,sana.khan@brcm.edu,CE,3,14.5,2024-08-05,52000
+1010,Yash Gupta,yash.gupta@brcm.edu,ECE,five,7.9,2023-08-07,58000
+1011,Tara Bose,tara.bose@brcm.edu,CSE,1,8.8,2025-13-40,62000
+1012,Vikram Singh,vikram.singh@brcm.edu,ME,5,6.5,2023-08-07,55000
+1013,Anjali Mehra,anjali.mehra@brcm.edu,CE,3,8.0,2024-08-05,52000
+1014,,sunil.kumar@brcm.edu,CSE,7,7.4,2022-08-08,62000
+1015,Riya Chauhan,riya.chauhan@brcm.edu,CSE,3,9.3,2024-08-05,620000
+1016,Harsh Tanwar,harsh.tanwar@brcm.edu,ECE,5,7.0,2023-08-07,-5000
+1017,Kavya Rao,kavya.rao@brcm.edu,CSE,1,8.6,2025-08-04,62000
+1018,Manish Antil,manish.antil@brcm.edu,ME,7,6.9,2022-08-08,55000
+1019,Simran Kaur,simran.kaur@brcm.edu,CE,5,7.8,2023-08-07,52000
+1020,Aditya Sheoran,aditya.sheoran@brcm.edu,CSE,3,8.2,2024-08-05,62000
+1020,Aditya S.,aditya.s@brcm.edu,CSE,3,8.2,2024-08-05,62000
+1021,Nikita Phogat,nikita.phogat@brcm.edu,ECE,3,abc,2024-08-05,58000
+1022,Rahul Beniwal,rahul.beniwal@brcm.edu,CSE,5,7.5,2023-08-07,62000
